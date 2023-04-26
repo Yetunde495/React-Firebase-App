@@ -1,0 +1,65 @@
+.sidebar-div {
+    height: 100vh!important;
+    position: sticky!important;
+    position: -webkit-sticky!important;
+    top: 0px!important;
+    z-index: 100!important;
+}
+
+
+.css-fayd5x-MenuButtonRef:hover {
+    background-color: transparent !important;
+}
+.css-ylonsm:hover {
+    background-color: transparent!important;
+}
+
+
+
+.sidebar-menu {
+    color: #fff;
+    padding: 2rem 0;
+
+}
+.sidebar-icon {
+    width: 18px;
+    height: 18px;
+}
+
+.sb-button {
+    color: #eeeeee;
+    position: fixed;
+    bottom: 20px;
+    margin-left: 0.7rem;
+}
+
+.sb-button:hover {
+    color: #fff;
+}
+.toggle-icon {
+  width: 20px;
+  color: #fff;
+}
+
+.sidebar-header {
+    color: #fff;
+    height: 50px; 
+    background: url('../../assets/images/logo.svg') no-repeat center;
+}
+
+
+.sidebar-menu li {
+    font-weight: 500;
+    font-size: 14px;
+    color: #eeeeee;
+}
+
+.css-1wvake5 {
+    border: none !important;
+}
+@media (max-width: 992px) {
+    .toggle-btn {
+        display: block !important;
+    } 
+}
+
